@@ -1,4 +1,2 @@
 # Test
-Test projects
-
-This is a test change
+In web.config file line <network host="relay-hosting.secureserver.net" port="25" /> just change "relay-hosting.secureserver.net" with your smtp url
